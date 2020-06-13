@@ -1,0 +1,2 @@
+courier_id,wave_index,tracking_id,courier_wave_start_lng,courier_wave_start_lat,action_type,expect_time
+100001234,0,2100076352513211234,121.625812,39.133612,PICKUP,1583371234
